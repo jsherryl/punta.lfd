@@ -9,3 +9,7 @@
 .inner-footer .footer-actions a:hover{background:#fff}
 .inner-footer .footer-blue-band{height:22px;background:var(--navy)}
 @media(max-width:700px){.footer{padding:24px 16px 100px}.inner-footer .footer-actions{gap:9px;padding:16px 12px}.inner-footer .footer-actions a{width:min(100%,280px)}}
+
+/* Slightly larger homepage footer message for better readability. */
+.footer p{font-size:1.08rem}
+@media(max-width:700px){.footer p{font-size:1.12rem}}
