@@ -5,7 +5,7 @@ FILES
 - photos.html: photo gallery with click-to-view lightbox, left/right navigation, keyboard arrows, and download link
 - videos.html: future video highlights page
 - styles.css: website styles
-- assets/: Philippines 2026 logo, congregation group photo, and 14 behind-the-scenes photos
+- assets/: Philippines 2026 logo, congregation group photo, and 56 Local-for-a-Day photos plus 14 behind-the-scenes photos
 
 PREVIEW LOCALLY
 1. Extract this ZIP.
@@ -19,7 +19,10 @@ PUBLISH WITH GITHUB + NETLIFY
 4. Open the Netlify URL and test all pages and downloads.
 
 ADDING MORE PHOTOS LATER
-Add new images to assets/behind-the-scenes/ and add their paths to the prepPhotos array in photos.html. Keep filenames simple (letters, numbers, hyphens; no special characters). Upload/commit the changed files. Netlify will redeploy.
+Add event images to assets/local-for-a-day/ and add their paths to the eventPhotos array in photos.html. Add preparation images to assets/behind-the-scenes/ and add their paths to the prepPhotos array. Keep filenames simple (letters, numbers, hyphens; no special characters). Upload/commit the changed files. Netlify will redeploy.
 
 PRIVACY
 This is a public static website. Anyone with the URL may be able to view and download published photos. Please only publish photos you have permission to share.
+
+
+Gallery update: 118 additional Local for a Day photos were added from the supplied photos.zip. The gallery now includes 174 Local for a Day photos total.
